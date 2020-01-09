@@ -4,7 +4,7 @@
     "version": "2020-01-06T07:38:56Z",
     "title": "ngp-demo-apigw-v1-dev-use1"
   },
-  "host": "t04es98v6f.execute-api.us-east-1.amazonaws.com",
+  "host": "https://qe3w4cezr9.execute-api.us-east-1.amazonaws.com/dev/hello",
   "basePath": "/dev",
   "schemes": [
     "https"
