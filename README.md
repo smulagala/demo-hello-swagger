@@ -1,4 +1,4 @@
-# Access the endpoint [Here] (https://smulagala.github.io/demo-hello-swagger/)
+# Access the endpoint [Here](https://smulagala.github.io/demo-hello-swagger/)
 
 # How to host Swagger API documentation with GitHub Pages
 
