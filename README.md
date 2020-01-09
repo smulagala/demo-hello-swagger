@@ -1,3 +1,5 @@
+# Access the endpoint [Here] (https://smulagala.github.io/demo-hello-swagger/)
+
 # How to host Swagger API documentation with GitHub Pages
 
 This repository is a template for using the [Swagger UI](https://github.com/swagger-api/swagger-ui) to dynamically generate beautiful documentation for your API and host it for free with GitHub Pages.
@@ -38,5 +40,5 @@ This repository is a template for using the [Swagger UI](https://github.com/swag
 
 ## Note
     Download the JSON file form AWS APIGateway
-    ->	Navigate to API gateway -> Stages -><select the stage> -> Export as Swagger and select export format as JSON (save the json file as swagger.json in local machine)
-    -> Place this JSON file in the above mentioned root directory of the swagger module
+    ->  Navigate to API gateway -> Stages -><select the stage> -> Export as Swagger and select export format as JSON (save the json file as swagger.json in local machine)
+    ->  Place this JSON file in the above mentioned root directory of the swagger module
